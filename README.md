@@ -1,8 +1,8 @@
-# Welcome this is the OnlineBookShelf
+# Welcome the OnlineBookShelf
 
 **I upload all the books which are small enough to be scaned through the browsers directly to the directory.**
 
-**Some bigger books can be found under the release of this repository.**
+**Maybe you can avoid downloading the books**
 
 **Wish you a happy day.**  
 
